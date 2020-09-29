@@ -1,0 +1,13 @@
+{
+  "name": "generate-jwk",
+  "version": "1.0.0",
+  "description": "Create and validate JWK",
+  "main": "jwker.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jose": "^2.0.2"
+  }
+}
